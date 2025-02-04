@@ -7,4 +7,7 @@ tmux attach:
 tmux create: 
             tmux new -s "name"
 
-pa
+path:
+            /mnt/vstor/CSE_CSDS_VXC204/mxh1029/.cache/.decoding/projects/ReasoningBench
+
+
